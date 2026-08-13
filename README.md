@@ -1,6 +1,6 @@
 
 # Dog-Cat-recognition
-=======
+
 # Cat vs Dog Classification 
 
 This project uses **ResNet18 (CNN)** to classify images as **Cat** or **Dog**.
@@ -46,4 +46,4 @@ TP5_Problem5_CNN(1).ipynb
 ```
 
 3. Run the cells from top to bottom.
->>>>>>> 9415296 (first commit)
+
