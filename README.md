@@ -2,6 +2,8 @@
 
 This project uses **ResNet18 (CNN)** to classify images as **Cat** or **Dog**.
 
+## Link: https://dog-cat-recognition.streamlit.app
+
 ## Technologies
 
 * Python
@@ -44,5 +46,5 @@ TP5_Problem5_CNN(1).ipynb
 
 3. Run the cells from top to bottom.
 
-## Link: https://dog-cat-recognition.streamlit.app
+
 
